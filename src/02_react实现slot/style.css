@@ -1,0 +1,19 @@
+.nav-bar{
+  display: flex;
+}
+
+.nav-left, .nav-right{
+  width: 70px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  background-color:red;
+}
+
+.nav-center{
+  flex:1;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  background-color: green;
+}
